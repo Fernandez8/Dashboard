@@ -7,3 +7,4 @@ In diesem Projekt werde ich. :
 -
 -
 -
+Am Ende werde ich ein Dashboard mittels Dash-Plotly mit Jupyterlab von ein paar wichtigen Information aus dem Dataset aufbauen
