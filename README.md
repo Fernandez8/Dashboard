@@ -2,7 +2,7 @@ In der heutigen Tage bestellen viele Leute Artikel Online. Ein paar Tage nach de
 In diesem Projekt werde ich. :
 - eine Explorative Datenanalyse (EDA) von neuen produzierten, Verkauften, retunierten, alte Produkte  durchführen
 - Anomalien in Bestellungen auf basis von "Payment_Methode" der letzten drei Jahre  mittels Statistiche Methoden erkennen
-- die Bestellungen, die Anomalien aufweisen, vorhersagen ( Anwendung von Multivariate LSTM Models)
+- die Anzahl an Bestellungen, die die Anomalien aufweisen, vorhersagen ( Anwendung von Multivariate LSTM Models)
 -  
 -
 -
